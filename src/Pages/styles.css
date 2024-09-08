@@ -1,0 +1,26 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    /* height: inherit;
+    overflow-y: auto; */
+  }
+  
+  .top {
+    min-height: 120vh;
+    background-color: lightblue;
+  }
+  
+  .bottom {
+    min-height: 150vh;
+    background-color: lightblue;
+  }
+  
+  #output {
+    margin-top: 2rem;
+  }
+  
+  #hscroll {
+    height: 100vh;
+    color: red;
+  }
+  
